@@ -1,1 +1,1 @@
-# notas em Portugol
+# anotações em Portugol
