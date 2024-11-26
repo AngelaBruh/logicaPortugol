@@ -1,3 +1,4 @@
+// Cadastro de turmas cada uma com nomes e notas de alunos sendo exibido ao final
 programa {
     funcao inicio() {
         cadeia turmas[10]     // Limite para até 10 turmas
