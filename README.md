@@ -1,1 +1,1 @@
-# logicaPortugol
+# notas em Portugol
